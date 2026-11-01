@@ -86,12 +86,6 @@ bundesliga-heimvorteil/
 - Zu Beginn der Saison 2020/21 waren in einigen Stadien zeitweise wenige Zuschauer zugelassen. Auch 2021/22 galten zeitweise Beschränkungen.
 - Die Analyse ist beschreibend. Sie zeigt Zusammenhänge, berücksichtigt aber nicht, wie stark die jeweiligen Gegner waren.
 
-## Nächste Schritte
-
-- Weitere Ligen vergleichen (Premier League, La Liga, Serie A)
-- Mit einem Chi-Quadrat-Test prüfen, ob die Unterschiede statistisch signifikant sind
-- Die Stärke der Teams berücksichtigen, z. B. über Wettquoten oder Marktwerte
-
 ## Werkzeuge
 
 Python (pandas, matplotlib) · Jupyter Notebook · Power BI (DAX, Power Query) · GitHub
