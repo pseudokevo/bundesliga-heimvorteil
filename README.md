@@ -11,7 +11,6 @@ Eine Analyse aller 2.448 Bundesliga-Spiele der Saisons 2018/19 bis 2025/26 mit P
 - **Ohne Zuschauer drehte sich das Verhältnis um.** In den 82 Geisterspielen nach dem Neustart im Mai/Juni 2020 gewannen Gastteams 45,1 % der Spiele, Heimteams nur 31,7 %.
 - **Schon eine Saison später war der Heimvorteil fast zurück.** 2020/21 wurde meist weiter ohne Publikum gespielt, trotzdem lag die Heimsiegquote bei 42,2 %. In Phasen mit Zuschauern waren es 44,1 %.
 - **Die schwächste Heimsaison war keine Corona-Saison.** 2024/25 gewannen Heimteams nur 38,6 % ihrer Spiele, weniger als in der Geistersaison 2020/21. Die Heimsiegquote schwankt von Saison zu Saison zwischen 38,6 % und 47,4 %.
-- **Bochum war daheim eine andere Mannschaft.** Mit 1,32 Punkten pro Heimspiel holte der VfL doppelt so viele Punkte wie auswärts (0,66). Auch Union Berlin (+0,64) und Gladbach (+0,57) waren daheim deutlich stärker. Werder Bremen und Wolfsburg holten auswärts sogar etwas mehr Punkte als daheim (je −0,05).
 
 | Phase | Spiele | Heimsiege | Remis | Auswärtssiege |
 | --- | --- | --- | --- | --- |
